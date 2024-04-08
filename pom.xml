@@ -103,6 +103,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>spring-shopapp</finalName>
 	</build>
 
 </project>
