@@ -12,7 +12,5 @@ services:
       MYSQL_PASSWORD: 123456
     ports:
       - "3306:3306"
-    networks:
-      - "springboot-mysql-net"
     volumes:
       - ./data:/var/lib/mysql
