@@ -6,58 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d7c2c9fd-85f7-4497-91b7-8f1f258f55b9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/components/JwtTokenUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/components/JwtTokenUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/configurations/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/configurations/SecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/configurations/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/configurations/WebSecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/controllers/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/controllers/CategoryController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/controllers/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/controllers/OrderController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/controllers/OrderDetailController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/controllers/OrderDetailController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/controllers/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/controllers/ProductController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/controllers/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/controllers/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/CartItemDTO$CartItemDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/CartItemDTO$CartItemDTOBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/CartItemDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/CartItemDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/CategoryDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/CategoryDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/OrderDTO$OrderDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/OrderDTO$OrderDTOBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/OrderDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/OrderDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/OrderDetailDTO$OrderDetailDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/OrderDetailDTO$OrderDetailDTOBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/OrderDetailDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/OrderDetailDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/ProductDTO$ProductDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/ProductDTO$ProductDTOBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/ProductDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/ProductDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/ProductImageDTO$ProductImageDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/ProductImageDTO$ProductImageDTOBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/ProductImageDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/ProductImageDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/UpdateUserDTO$UpdateUserDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/UpdateUserDTO$UpdateUserDTOBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/UpdateUserDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/UpdateUserDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/UserDTO$UserDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/UserDTO$UserDTOBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/UserDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/UserDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/UserLoginDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/dtos/UserLoginDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/BaseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/BaseEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/Category$CategoryBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/Category$CategoryBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/Category.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/Order$OrderBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/Order$OrderBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/OrderDetail$OrderDetailBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/OrderDetail$OrderDetailBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/Product$ProductBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/Product$ProductBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/ProductImage$ProductImageBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/ProductImage$ProductImageBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/Role$RoleBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/Role$RoleBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/SocialAccount$SocialAccountBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/SocialAccount$SocialAccountBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/Token$TokenBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/Token$TokenBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/User$UserBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/User$UserBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/models/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/responses/BaseResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/responses/BaseResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/responses/LoginResponse$LoginResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/responses/LoginResponse$LoginResponseBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/responses/OrderDetailResponse$OrderDetailResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/responses/OrderDetailResponse$OrderDetailResponseBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/responses/OrderResponse$OrderResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/responses/OrderResponse$OrderResponseBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/responses/ProductListResponse$ProductListResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/responses/ProductListResponse$ProductListResponseBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/responses/ProductResponse$ProductResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/responses/ProductResponse$ProductResponseBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/responses/RegisterResponse$RegisterResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/responses/RegisterResponse$RegisterResponseBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/responses/UpdateCategoryResponse$UpdateCategoryResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/responses/UpdateCategoryResponse$UpdateCategoryResponseBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/responses/UserResponse$UserResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/responses/UserResponse$UserResponseBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/services/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/services/CategoryService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/services/OrderDetailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/services/OrderDetailService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/services/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/services/OrderService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/services/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/services/ProductService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/services/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/services/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-shopapp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-shopapp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-shopapp.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-shopapp.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.project.shopapp.ShopappApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.project.shopapp.ShopappApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.project.shopapp.ShopappApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.project.shopapp.ShopappApplicationTests.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +55,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ShopappApplication.executor": "Run",
+    "JAR Application.spring-shopapp.jar.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -119,11 +74,14 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Downloads\shopapp" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.project.shopapp.controllers" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JAR Application.spring-shopapp.jar">
     <configuration name="ShopappApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.project.shopapp.ShopappApplication" />
       <module name="shopapp" />
@@ -137,8 +95,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="spring-shopapp.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/spring-shopapp.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ShopappApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="shopapp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.project.shopapp.ShopappApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JAR Application.spring-shopapp.jar" />
         <item itemvalue="Application.ShopappApplication" />
       </list>
     </recent_temporary>
@@ -174,7 +144,9 @@
       <workItem from="1710771180955" duration="2297000" />
       <workItem from="1712159308271" duration="731000" />
       <workItem from="1712206088208" duration="2482000" />
-      <workItem from="1712548470638" duration="4927000" />
+      <workItem from="1712548470638" duration="8958000" />
+      <workItem from="1712764001728" duration="735000" />
+      <workItem from="1712995457139" duration="1989000" />
     </task>
     <servers />
   </component>
