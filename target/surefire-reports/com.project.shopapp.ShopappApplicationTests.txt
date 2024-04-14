@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.project.shopapp.ShopappApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.244 s - in com.project.shopapp.ShopappApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.873 s - in com.project.shopapp.ShopappApplicationTests

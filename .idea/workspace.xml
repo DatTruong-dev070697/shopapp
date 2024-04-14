@@ -7,6 +7,13 @@
     <list default="true" id="d7c2c9fd-85f7-4497-91b7-8f1f258f55b9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/project/shopapp/components/JwtTokenUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/project/shopapp/components/JwtTokenUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-shopapp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-shopapp.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.project.shopapp.ShopappApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.project.shopapp.ShopappApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.project.shopapp.ShopappApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.project.shopapp.ShopappApplicationTests.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +149,7 @@
       <workItem from="1712548470638" duration="8958000" />
       <workItem from="1712764001728" duration="735000" />
       <workItem from="1712995457139" duration="3165000" />
-      <workItem from="1713085549584" duration="334000" />
+      <workItem from="1713085549584" duration="3320000" />
     </task>
     <servers />
   </component>

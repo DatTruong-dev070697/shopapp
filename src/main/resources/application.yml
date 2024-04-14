@@ -8,7 +8,7 @@ spring :
 #    driver-class-name: com.mysql.jdbc.Driver
 #    username: root
 #    password: admin
-      url: jdbc:mysql://localhost:3306/shopapp
+      url: jdbc:mysql://mysqldb:3306/shopapp
       username: test
       password: 123456
   jpa:
@@ -26,10 +26,8 @@ spring :
     basename: i18n/messages
     encoding: UTF-8
     default-locale: en
-  sql:
-    init:
-      platform: mysql
-      mode: always
+  profiles:
+    active: docker
 
 api:
   prefix: api/v1
