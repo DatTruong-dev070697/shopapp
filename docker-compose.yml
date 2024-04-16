@@ -10,8 +10,9 @@ services:
       MYSQL_DATABASE: shopapp
       MYSQL_USER: test
       MYSQL_PASSWORD: 123456
-    networks:
-      - "springboot-mysql-net"
+#    networks:
+#      - "springboot-mysql-net"
+    network_mode: springboot-mysql-net
     ports:
       - "3306:3306"
     volumes:
