@@ -1,6 +1,13 @@
 version: '3.7'
 
 services:
+  web:
+    image: shopapp
+    container_name: testspring
+    ports:
+      - "8080:80"
+    networks:
+      - "springboot-mysql-net"
   mysql:
     image: mysql:8.0
     container_name: mysqldb
@@ -12,7 +19,8 @@ services:
       MYSQL_PASSWORD: 123456
 #    networks:
 #      - "springboot-mysql-net"
-    network_mode: springboot-mysql-net
+    networks:
+    - "springboot-mysql-net"
     ports:
       - "3306:3306"
     volumes:
