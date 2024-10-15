@@ -7,7 +7,7 @@ services:
     ports:
       - "8080:80"
     networks:
-      - "springboot-mysql-net"
+      - springboot-mysql-net
   mysql:
     image: mysql:8.0
     container_name: mysqldb
@@ -20,7 +20,7 @@ services:
 #    networks:
 #      - "springboot-mysql-net"
     networks:
-    - "springboot-mysql-net"
+    - springboot-mysql-net
     ports:
       - "3306:3306"
     volumes:
