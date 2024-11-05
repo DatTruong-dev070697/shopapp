@@ -11,7 +11,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Build project with docker'
-                dir('/root/jenkins/workspace/Webhook_Pipeline/'){
+                dir('/root/jenkins/workspace/Shopapp_Pipeline/'){
 					sh 'docker-compose up'
 				}
             }
