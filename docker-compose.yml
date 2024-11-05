@@ -27,4 +27,5 @@ services:
       - ./data:/var/lib/mysql
 networks:
   springboot-mysql-net:
+    name: springboot-mysql-net
     driver: bridge
