@@ -6,6 +6,11 @@ services:
     container_name: testspring
     ports:
       - "8080:8080"
+    #cau hinh them khi chay jenkins tren docker
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql:3306/shopapp
+      SPRING_DATASOURCE_USERNAME: sa
+      SPRING_DATASOURCE_PASSWORD: 123456
     networks:
       - springboot-mysql-net
   mysql:
