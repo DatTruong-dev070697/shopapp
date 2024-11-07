@@ -12,6 +12,7 @@ pipeline {
             steps {
                 echo 'Build project with docker'
                 dir('/root/jenkins/workspace/Shopapp_Pipeline/'){
+                    sh 'docker system prune -f'
 					sh 'docker-compose up'
 				}
             }
