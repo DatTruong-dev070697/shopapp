@@ -12,6 +12,7 @@ spec:
       labels:
         app: springboot-app
     spec:
+      hostNetwork: true
       containers:
         - name: springboot-app
           image: springboot-k8s-demo:1.0
@@ -20,7 +21,7 @@ spec:
             - containerPort: 8080
           env:
             - name: SPRING_DATASOURCE_URL
-              value: "jdbc:mysql://192.168.1.16:3306/mydb?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC"
+              value: "jdbc:mysql://192.168.1.16:3306/shopapp?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC"
             - name: SPRING_DATASOURCE_USERNAME
               value: "root"
             - name: SPRING_DATASOURCE_PASSWORD
