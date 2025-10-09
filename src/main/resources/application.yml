@@ -8,7 +8,7 @@ spring :
 #    driver-class-name: com.mysql.jdbc.Driver
 #    username: test
 #    password: 123456
-    url: jdbc:mysql://192.168.1.6:3306/shopapp?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+    url: jdbc:mysql://host.docker.internal:3306/shopapp?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
     username: root
     password: admin
     driver-class-name: com.mysql.cj.jdbc.Driver
